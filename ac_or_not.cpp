@@ -1,3 +1,5 @@
+//WAP to check whether the entered string is accepted or not for a given grammar.
+
 #include<bits/stdc++.h>
 using namespace std;
 
